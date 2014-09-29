@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2DA84040-FFF8-49D9-95ED-3FE905388E39</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Kurs</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>17991FF48A5D278345FB5AB102E9A519835398E8</key>
+		<string>https://github.com/macologe/kurs.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Kurs.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>17991FF48A5D278345FB5AB102E9A519835398E8</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/macologe/kurs.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>17991FF48A5D278345FB5AB102E9A519835398E8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>17991FF48A5D278345FB5AB102E9A519835398E8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Kurs</string>
+		</dict>
+	</array>
+</dict>
+</plist>
